@@ -1,0 +1,7 @@
+echo -e "-G Gaphique"
+	echo -e "-s Copier les donnees dans un repertoir backup"
+	echo -e "-ar Archiver Backup"
+	echo -e "-c Compresser Backup.tar"
+	echo -e "-r Restorer les donées "
+	echo -e "-h Afficher help"
+	#read choix
